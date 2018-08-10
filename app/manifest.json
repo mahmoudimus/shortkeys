@@ -170,6 +170,7 @@
     "storage",
     "bookmarks",
     "sessions",
+    "input",
     "<all_urls>"
   ]
 }
